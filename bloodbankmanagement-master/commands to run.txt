@@ -1,0 +1,8 @@
+enter into the respective folder mostly 
+cd "C:\Users\Dell\Downloads\bloodbankmanagement\bloodbankmanagement-master"
+python -m pip install -r requirements. txt
+py manage.py makemigrations
+py manage.py migrate
+py manage.py runserver
+
+put in a browser = http://127.0.0.1:8000/
